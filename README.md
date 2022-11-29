@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando **No aprimoramento dos meus conhecimentos na área da programação**
 
-- 🌱 I’m currently learning **Python e Data Science**
+- 🌱 Eu atualmente estou aprendendo sobre **Python e Data Science**
 
 - 📫 Você pode me encontrar **gabriel.siq.rod@gmail.com**
 

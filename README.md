@@ -1,15 +1,13 @@
 <h1 align="center">Ola, eu sou Gabriel</h1>
-<h3 align="center">Um novo estudante na área de programação</h3>
+<h3 align="center">Atualmente me reprogramando e aprendendo coisas novas</h3>
 
-- 🔭 Atualmente estou trabalhando [no meu crescimento pessoal](https://cursos.alura.com.br/vitrinedev/GabeSiq)
+- 🌱 Atualmente estou aprendendo programação voltado para Ciência de Dados e você pode acompanhar meu desenvolvimento (https://cursos.alura.com.br/vitrinedev/GabeSiq)
 
-- 🌱 Atualmente estou aprendendo **Python pela Alura**
-
-- 🐝 Cheque meu perfil no BeeCrowd [https://www.beecrowd.com.br/judge/pt/profile/769545](https://www.beecrowd.com.br/judge/pt/profile/769545)
+- 🐝 Também pode checar meu perfil no **BeeCrowd** [https://www.beecrowd.com.br/judge/pt/profile/769545](https://www.beecrowd.com.br/judge/pt/profile/769545)
 
 - 📫 Você pode me encontrar **gabriel.siq.rod@gmail.com**
 
-- ⚡ Um fato engraçado **Sou um bacharel em direito que se apaixonou por programação.**
+- ⚡ Um fato engraçado **Sou um bacharel em direito que esta se reprogramando.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,13 +18,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabesiq&show_icons=true&locale=en&layout=compact" alt="gabesiq" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabesiq&show_icons=true&locale=en" alt="gabesiq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabesiq&" alt="gabesiq" /></p>
-
-
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=GabeSiq&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
+<br>
 
 <!--
 **GabeSiq/gabesiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
